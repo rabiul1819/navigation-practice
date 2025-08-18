@@ -1,0 +1,36 @@
+ 
+header{
+    background-color:#24252A ;
+    justify-content: space-between;
+}
+nav ul li a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    
+}
+nav li{
+    display: inline-block;
+    margin: 16px;
+    padding: auto;
+}
+nav ul li:hover{
+    background-color: rgba(0, 136, 169, 0.8);
+    border-radius: 50px;
+    padding:0 20px;
+    font-size: 16px;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color:#24252A ;
+    color: red;
+    margin: auto;
+    text-align: center;
+    
+}
+
+form .basic-info label{
+display: block;
+margin-top: 10px;
+}
