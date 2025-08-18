@@ -1,0 +1,33 @@
+
+*{
+    /* margin: 0; */
+    /* padding: 0; */
+    
+}
+nav li,a{
+text-decoration: none;
+list-style: none;
+display: inline;
+margin: 15px;
+}
+nav li a:hover{
+    background-color: blueviolet;
+    color: white;
+    padding: 12px 24px;
+    text-align: center;
+    padding: auto;
+}
+ul{
+    /* display: flex; */
+    
+}
+.img1{
+    width: 100px;
+    height: auto;
+    margin: 10px;
+    padding-right: 12px;
+}
+footer{
+    text-align: center;
+    color:lightseagreen;
+}
