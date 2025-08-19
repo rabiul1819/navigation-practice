@@ -1,0 +1,24 @@
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table{
+    width: 100%;
+}
+
+.table-padding,.table-padding th,.table-padding td{
+    border: 1px solid red;
+}
+.table-padding{
+    border-collapse: separate;
+}
+
+.table-spcing {
+    border-spacing: 30px;      /* gap between cells */
+    border-collapse: separate; /* must be separate for spacing to show */
+    border: 1px solid royalblue;
+  }
+  .table-spcing th,
+.table-spcing td {
+  border: 1px solid royalblue;
+}
